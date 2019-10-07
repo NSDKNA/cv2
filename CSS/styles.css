@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.top-contaner{
+      margin: 0;
+      background-color: #eaffd0;
+}
+.top-cloud{
+  position: absolute;
+}
+.bottom-cloud{
+  position: absolute;
+}
